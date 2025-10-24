@@ -1,4 +1,4 @@
-# O957's Reading List - Embryo Screening
+# O957's Reading List - Preimplantation Genetic Diagnosis
 
 - [ESHRE PGT Consortium Data Collection](https://academic.oup.com/humrep/article/35/12/2758/5917596): De Rycke et al. on European PGT trends.
 - [Preimplantation Genetic Testing: Where We Are Today](https://www.fertstert.org/article/S0015-0282(19)30164-3/fulltext): Handyside review of current state.

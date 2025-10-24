@@ -1,8 +1,16 @@
-# Awesome Embryo Screening [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Preimplantation Genetic Diagnosis [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome resources for preimplantation genetic testing and embryo screening technologies.
+_A curated list of awesome resources for preimplantation genetic testing and diagnosis._
 
-This list covers the science, techniques, ethical considerations, and clinical applications of embryo screening in the context of assisted reproductive technology (ART) and human reproduction.
+<details markdown=1>
+
+<summary> Definition From Wikipedia </summary>
+
+**Preimplantation genetic diagnosis** (**PGD** or **PIGD**) is the [genetic profiling](https://en.wikipedia.org/wiki/Genetic_profiling "Genetic profiling") of [embryos](https://en.wikipedia.org/wiki/Embryo "Embryo") prior to [implantation](https://en.wikipedia.org/wiki/Implantation_(human_embryo) "Implantation (human embryo)") (as a form of [embryo profiling](https://en.wikipedia.org/wiki/Embryo_profiling "Embryo profiling")), [1](https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis#cite_note-1) and sometimes even of [oocytes](https://en.wikipedia.org/wiki/Oocyte "Oocyte") prior to [fertilization](https://en.wikipedia.org/wiki/Fertilization "Fertilization"). [^wikipedia_citation]
+
+[^wikipedia_citation]: Wikipedia contributors. "Preimplantation Genetic Diagnosis." Wikipedia. Last modified October 13, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis>.
+
+</details>
 
 ## Contents
 
@@ -44,6 +52,12 @@ This list covers the science, techniques, ethical considerations, and clinical a
 
 ## Organizations
 
+### GitHub Organizations
+
+Currently no major GitHub organizations specifically for preimplantation genetic diagnosis.
+
+### Other Organizations
+
 - [American Society for Reproductive Medicine (ASRM)](https://www.asrm.org/): Professional organization for reproductive medicine.
 - [European Society of Human Reproduction and Embryology (ESHRE)](https://www.eshre.eu/): European reproductive medicine society.
 - [Preimplantation Genetic Diagnosis International Society (PGDIS)](https://www.pgdis.org/): Organization for PGT professionals.
@@ -60,9 +74,9 @@ This list covers the science, techniques, ethical considerations, and clinical a
 ## Researchers
 
 - [Joyce Harper](https://www.ucl.ac.uk/reproductive-health/people/joyce-harper): UCL professor pioneering PGT research and practice.
-- [Nathan Treff](https://www.genomicprediction.com/team): Co-founder of Genomic Prediction developing embryo screening technologies.
+- [Nathan Treff](https://www.genomicprediction.com/team): Co-founder of Genomic Prediction developing preimplantation genetic testing technologies.
 - [Santiago Munné](https://www.coopergenomics.com/): Cooper Genomics CSO and PGT pioneer.
-- [Dagan Wells](https://www.wrh.ox.ac.uk/team/dagan-wells): Oxford researcher developing advanced embryo screening methods.
+- [Dagan Wells](https://www.wrh.ox.ac.uk/team/dagan-wells): Oxford researcher developing advanced preimplantation genetic testing methods.
 - [Cynthia Morton](https://connects.catalyst.harvard.edu/Profiles/display/Person/6371): Harvard Medical School geneticist studying reproductive genetics.
 - [Joe Leigh Simpson](https://www.fiu.edu/): Florida International University expert on prenatal and preimplantation diagnosis.
 - [Alan Handyside](https://en.wikipedia.org/wiki/Alan_Handyside): Pioneer who performed first PGD procedure.
