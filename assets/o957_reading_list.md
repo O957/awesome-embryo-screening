@@ -1,0 +1,37 @@
+# O957's Reading List - Embryo Screening
+
+- [ESHRE PGT Consortium Data Collection](https://academic.oup.com/humrep/article/35/12/2758/5917596): De Rycke et al. on European PGT trends.
+- [Preimplantation Genetic Testing: Where We Are Today](https://www.fertstert.org/article/S0015-0282(19)30164-3/fulltext): Handyside review of current state.
+- [History of Preimplantation Genetic Diagnosis](https://academic.oup.com/humrep/article/33/1/37/4569397): Harper retrospective.
+- [Clinical Outcomes of PGT](https://www.fertstert.org/article/S0015-0282(18)30062-5/fulltext): Rubio et al. on pregnancy rates.
+- [Comprehensive Chromosome Screening](https://www.fertstert.org/article/S0015-0282(13)00054-0/fulltext): Wells and Fragouli on array CGH.
+- [Next-Generation Sequencing for PGT-A](https://academic.oup.com/humrep/article/31/7/1491/1750133): Fiorentino et al. on NGS validation.
+- [Mosaicism in Human Preimplantation Embryos](https://www.fertstert.org/article/S0015-0282(17)30253-9/fulltext): Munné and Wells on chromosomal mosaicism.
+- [PGT-A and Live Birth Rates](https://www.fertstert.org/article/S0015-0282(18)31668-5/fulltext): Rubio et al. RCT results.
+- [Trophectoderm Biopsy Safety](https://academic.oup.com/humrep/article/34/7/1296/5477663): Scott et al. on obstetric outcomes.
+- [Haplotyping for PGT-M](https://academic.oup.com/humrep/article/25/8/1960/614886): Handyside on family linkage analysis.
+- [Karyomapping](https://www.nature.com/articles/gim201287): Natesan et al. on genome-wide haplotyping.
+- [PGT for Late-Onset Disorders](https://www.fertstert.org/article/S0015-0282(17)30009-7/fulltext): Kahraman et al. on BRCA and Huntington's.
+- [HLA Matching with PGT-M](https://academic.oup.com/humrep/article/21/7/1806/678806): Van de Velde et al. on savior siblings.
+- [Cell-Free DNA in Blastocoele Fluid](https://academic.oup.com/humrep/article/28/10/2652/633997): Stigliani et al. proof of concept.
+- [Non-Invasive Chromosome Screening](https://www.fertstert.org/article/S0015-0282(19)30120-5/fulltext): Hammond et al. on spent culture medium.
+- [Comparison of Invasive and Non-Invasive PGT](https://academic.oup.com/humrep/article/34/12/2418/5572588): Vera-Rodriguez et al. concordance study.
+- [Technical Challenges of niPGT](https://www.nature.com/articles/s41598-020-62976-4): Huang et al. on maternal DNA contamination.
+- [Time-Lapse Imaging of Human Embryos](https://academic.oup.com/humrep/article/27/5/1285/661833): Wong et al. on morphokinetic parameters.
+- [Embryo Grading Systems](https://www.fertstert.org/article/S0015-0282(16)62928-X/fulltext): Alpha and ESHRE consensus.
+- [AI for Embryo Selection](https://www.nature.com/articles/s41591-019-0540-1): VerMilyea et al. on deep learning.
+- [Morphokinetics and Aneuploidy](https://academic.oup.com/humrep/article/29/10/2317/664881): Campbell et al. correlation study.
+- [Polygenic Embryo Screening](https://www.cell.com/cell/fulltext/S0092-8674(19)31210-3): Treff et al. theoretical framework.
+- [Embryo Screening for Polygenic Disease Risk](https://www.nature.com/articles/s41591-019-0667-0): Lencz et al. on complex traits.
+- [Ethical Implications of Polygenic Testing](https://www.nature.com/articles/s41591-019-0653-6): Turley et al. commentary.
+- [Efficacy of Polygenic Embryo Screening](https://elifesciences.org/articles/64716): Karavani et al. modeling study.
+- [Limitations of Embryo PRS](https://www.cell.com/ajhg/fulltext/S0002-9297(21)00266-8): Lázaro-Muñoz et al. critique.
+- [Ethics of Preimplantation Genetic Testing](https://www.asrm.org/globalassets/asrm/asrm-content/news-and-publications/ethics-committee-opinions/preimplantation_genetic_testing.pdf): ASRM Ethics Committee opinion.
+- [ESHRE Task Force on Ethics](https://academic.oup.com/humrep/article/35/7/1530/5861609): Pennings et al. on PGT ethics.
+- [Justice and Embryo Selection](https://link.springer.com/article/10.1007/s10654-020-00652-5): Anomaly on fairness concerns.
+- [Disability Rights and PGT](https://academic.oup.com/jlb/article/7/1/lsaa019/5810743): Parens and Asch perspective.
+- [Non-Medical Sex Selection](https://www.fertstert.org/article/S0015-0282(18)32256-0/fulltext): ASRM on sex selection ethics.
+- [IVF Success Rates with PGT-A](https://www.fertstert.org/article/S0015-0282(18)31668-5/fulltext): Rubio et al. randomized trial.
+- [PGT for Advanced Maternal Age](https://academic.oup.com/humrep/article/32/10/2070/4064061): Munné et al. outcomes.
+- [Recurrent Pregnancy Loss and PGT](https://www.fertstert.org/article/S0015-0282(17)31733-7/fulltext): Treff and Scott review.
+- [Reciprocal Translocations and PGT](https://academic.oup.com/humrep/article/33/8/1427/5036734): Scriven et al. on structural rearrangements.
