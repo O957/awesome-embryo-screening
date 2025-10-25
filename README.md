@@ -12,7 +12,7 @@ _A curated list of awesome resources for preimplantation genetic testing and dia
 
 </details>
 
-![](./assets/pgd.jpg) [^image_attribution]
+![](./assets/pgd.png) [^image_attribution]
 
 [^image_attribution]: This file is made available under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons "w:en:Creative Commons") [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en "ccorg:publicdomain/zero/1.0/deed.en"). Image Changed Made: None. Image Link: <https://commons.wikimedia.org/wiki/File:Ivf.png>. Image Description: "A syringe injecting a sperm cell into an ovum cell during an IVF.".
 
