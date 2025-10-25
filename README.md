@@ -73,14 +73,7 @@ Currently no major GitHub organizations specifically for preimplantation genetic
 
 ## Researchers
 
-- [Joyce Harper](https://www.ucl.ac.uk/reproductive-health/people/joyce-harper): UCL professor pioneering PGT research and practice.
-- [Nathan Treff](https://www.genomicprediction.com/team): Co-founder of Genomic Prediction developing preimplantation genetic testing technologies.
-- [Santiago Munné](https://www.coopergenomics.com/): Cooper Genomics CSO and PGT pioneer.
-- [Dagan Wells](https://www.wrh.ox.ac.uk/team/dagan-wells): Oxford researcher developing advanced preimplantation genetic testing methods.
-- [Cynthia Morton](https://connects.catalyst.harvard.edu/Profiles/display/Person/6371): Harvard Medical School geneticist studying reproductive genetics.
-- [Joe Leigh Simpson](https://www.fiu.edu/): Florida International University expert on prenatal and preimplantation diagnosis.
-- [Alan Handyside](https://en.wikipedia.org/wiki/Alan_Handyside): Pioneer who performed first PGD procedure.
-- [Yury Verlinsky](https://en.wikipedia.org/wiki/Yury_Verlinsky): Late pioneer of PGD and polar body biopsy (deceased).
+Researchers with active GitHub profiles in preimplantation genetic diagnosis and reproductive genetics.
 
 ## Courses
 
