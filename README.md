@@ -30,6 +30,7 @@ _A curated list of awesome resources for preimplantation genetic testing and dia
 - [Software](#software)
 - [Websites](#websites)
 - [Educational Resources](#educational-resources)
+- [Contribution](#contribution)
 
 ## Books
 
@@ -127,6 +128,10 @@ Researchers with active GitHub profiles in preimplantation genetic diagnosis and
 - [ASRM Education](https://www.asrm.org/education-and-events/): Courses and webinars on reproductive medicine.
 - [ESHRE Campus](https://www.eshre.eu/Education/ESHRE-Campus): Online learning platform.
 - [PGDIS Training](https://www.pgdis.org/training.html): PGT-specific education.
+
+## Contribution
+
+Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
 ## License
 
